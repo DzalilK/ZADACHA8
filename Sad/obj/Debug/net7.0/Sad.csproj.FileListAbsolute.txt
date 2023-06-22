@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\bin\Debug\net7.0\Sad.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\bin\Debug\net7.0\Sad.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\bin\Debug\net7.0\Sad.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\bin\Debug\net7.0\Sad.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\bin\Debug\net7.0\Sad.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\refint\Sad.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\Sad.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\ZD\Sad\obj\Debug\net7.0\ref\Sad.dll
